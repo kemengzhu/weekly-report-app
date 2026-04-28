@@ -1,3 +1,10 @@
+# Weekly Report App
+
+## 项目介绍
+
+Weekly Report App 是一个基于 Next.js 构建的周报管理应用，旨在帮助个人或团队高效记录、整理与回顾每周工作内容。  
+应用聚焦于“快速填写、清晰展示、便于追踪”的使用体验，适合作为周报提交流程的基础平台。
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
